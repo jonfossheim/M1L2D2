@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('./images/shelby-gt350.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.inner {
+  /*background-color: rgba(104, 102, 102, 0.2);*/
+  height: 100%;
+  width: 100%;
+}
+
+/*
+
+White and Black
+
+rgba(255, 255, 255, 0.3) 
+rgba(0, 0, 0, 0.3);
+
+*/
